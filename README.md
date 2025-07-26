@@ -1,2 +1,2 @@
 # Codsoft
-Landing Pag e
+Landing Page
